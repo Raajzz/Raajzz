@@ -1,6 +1,28 @@
-### Hi there 👋
+### Hey there, I'm Raaj 👋
+
+I love developing innovative and interesting Fullstack Applications, I'm someone who places creativity over analysis :P
+
+<br>
+
+### How's Life? 🌇
+
+🔭 I’m currently working on <a href="https://github.com/Raajzz/smp-project">this</a> and <a href="https://github.com/Raajzz/portfolio">my portfolio!</a> <br>
+🌱 I’m currently learning Advanced React, NodeJS and some CSS <br>
+👯 I’m looking to collaborate on React and Tailwind! <br>
+💬 Ask me about Life, JavaScript and Philosophical Implications of useState Hook XD <br>
+😄 Pronouns: He/Him <br>
+
+<br>
+
+### Checkout my stats 👨‍💻
+
+👨‍🌾 It ain't much, but it's honest work 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raajzz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raajzz&layout=compact" />
+
 
 <!--
+Yeah, I'mma keep this for reference for now, well... Oh!, hello there!
 **Raajzz/Raajzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
