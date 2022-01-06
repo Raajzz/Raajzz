@@ -6,8 +6,8 @@ I love developing innovative and interesting Fullstack Applications, I'm someone
 
 ### How's Life? 🌇
 
-🔭 I’m working on <a href="https://github.com/Raajzz/smp-project">this</a> and <a href="https://github.com/Raajzz/portfolio">my portfolio!</a> <br>
-🌱 I’m currently learning Advanced React, NodeJS and some CSS <br>
+🔭 I’m currently working on react projects! <br>
+🌱 I’m currently learning Advanced React, NodeJS and  CSS <br>
 👯 I’m looking to collaborate on React and Tailwind! <br>
 💬 Ask me about Life, JavaScript and Philosophical Implications of useState Hook XD <br>
 😄 Pronouns: He/Him <br>
