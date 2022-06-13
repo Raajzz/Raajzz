@@ -9,7 +9,7 @@ I love developing innovative and interesting Fullstack Applications, I'm someone
 🔭 I’m currently working on MERN projects! <br>
 🌱 I’m currently learning React, Node.js and MongoDB <br>
 👯 I’m looking to collaborate on React and Tailwind! <br>
-💬 Ask me about Life, JavaScript and Philosophical Implications of useState Hook XD <br>
+💬 Ask me about JavaScript, Express.js and Philosophical Implications of useState Hook XD <br>
 😄 Pronouns: He/Him <br>
 
 <br>
